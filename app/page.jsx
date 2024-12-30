@@ -2,9 +2,13 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+      <>
       
-    </div>
+          <div className="text-4xl text-center text-blue-500">
+              
+              MoeruMonoTachi
+      </div>
+      </>
   )
 }
 
